@@ -4,8 +4,8 @@
 ## Setting Up the Environment
 ```bash
 conda create -n unidubbing python=3.8
-cd fairseq
 git clone https://github.com/facebookresearch/fairseq/tree/afc77bdf4bb51453ce76f1572ef2ee6ddcda8eeb
+cd fairseq
 pip install --editable ./
 pip install -r requirements.txt
 ```
