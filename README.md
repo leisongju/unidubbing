@@ -48,3 +48,15 @@ Encode the audio using the pre-trained weights [HiFi-Codec-16k-320d](https://hug
 [speech-resynthesis](https://github.com/facebookresearch/speech-resynthesis)
 [AcademiCodec](https://github.com/yangdongchao/AcademiCodec)
 [Transpeech](https://github.com/rongjiehuang/transpeech)
+
+## Cite Our Paper
+If you find Unidubbing useful in your research, please use the following BibTeX entry for citation.
+```BibTeX
+@inproceedings{lei2024uni,
+  title={Uni-Dubbing: Zero-Shot Speech Synthesis from Visual Articulation},
+  author={Lei, Songju and Cheng, Xize and Lyu, Mengjiao and Hu, Jianqiao and Tan, Jintao and Liu, Runlin and Xiong, Lingyu and Jin, Tao and Li, Xiandong and Zhao, Zhou},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={10082--10099},
+  year={2024}
+}
+```
